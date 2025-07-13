@@ -36,7 +36,6 @@ This project explores attrition trends, performance patterns, and salary insight
 
 ---
 
-## 🖼 Summary Slide  
-![Summary Slide](HR_Analytics_Summary_Slide.png)
+![Summary Slide](HR_Analytics_Summary_Slide.jpg)
 
 📂 All chart images are available in the /Pivot_Charts/ folder
